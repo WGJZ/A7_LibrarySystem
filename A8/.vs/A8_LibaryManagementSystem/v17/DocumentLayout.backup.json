@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abnormal\\source\\repos\\A7_LibrarySystem\\A8_LibaryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7000669E-C4AD-43E8-9417-15C61FEEC129}|A8_LibaryManagementSystem.vcxproj|C:\\Users\\abnormal\\source\\repos\\A7_LibrarySystem\\A8_LibaryManagementSystem\\FacultyMember.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7000669E-C4AD-43E8-9417-15C61FEEC129}|A8_LibaryManagementSystem.vcxproj|solutionrelative:FacultyMember.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7000669E-C4AD-43E8-9417-15C61FEEC129}|A8_LibaryManagementSystem.vcxproj|C:\\Users\\abnormal\\source\\repos\\A7_LibrarySystem\\A8_LibaryManagementSystem\\FacultyMember.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7000669E-C4AD-43E8-9417-15C61FEEC129}|A8_LibaryManagementSystem.vcxproj|solutionrelative:FacultyMember.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7000669E-C4AD-43E8-9417-15C61FEEC129}|A8_LibaryManagementSystem.vcxproj|C:\\Users\\abnormal\\source\\repos\\A7_LibrarySystem\\A8_LibaryManagementSystem\\GuestMember.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7000669E-C4AD-43E8-9417-15C61FEEC129}|A8_LibaryManagementSystem.vcxproj|solutionrelative:GuestMember.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7000669E-C4AD-43E8-9417-15C61FEEC129}|A8_LibaryManagementSystem.vcxproj|C:\\Users\\abnormal\\source\\repos\\A7_LibrarySystem\\A8_LibaryManagementSystem\\IMember.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7000669E-C4AD-43E8-9417-15C61FEEC129}|A8_LibaryManagementSystem.vcxproj|solutionrelative:IMember.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7000669E-C4AD-43E8-9417-15C61FEEC129}|A8_LibaryManagementSystem.vcxproj|C:\\Users\\abnormal\\source\\repos\\A7_LibrarySystem\\A8_LibaryManagementSystem\\Member.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7000669E-C4AD-43E8-9417-15C61FEEC129}|A8_LibaryManagementSystem.vcxproj|solutionrelative:Member.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7000669E-C4AD-43E8-9417-15C61FEEC129}|A8_LibaryManagementSystem.vcxproj|C:\\Users\\abnormal\\source\\repos\\A7_LibrarySystem\\A8_LibaryManagementSystem\\Member.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7000669E-C4AD-43E8-9417-15C61FEEC129}|A8_LibaryManagementSystem.vcxproj|solutionrelative:Member.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7000669E-C4AD-43E8-9417-15C61FEEC129}|A8_LibaryManagementSystem.vcxproj|C:\\Users\\abnormal\\source\\repos\\A7_LibrarySystem\\A8_LibaryManagementSystem\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7000669E-C4AD-43E8-9417-15C61FEEC129}|A8_LibaryManagementSystem.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7000669E-C4AD-43E8-9417-15C61FEEC129}|A8_LibaryManagementSystem.vcxproj|C:\\Users\\abnormal\\source\\repos\\A7_LibrarySystem\\A8_LibaryManagementSystem\\GuestMember.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7000669E-C4AD-43E8-9417-15C61FEEC129}|A8_LibaryManagementSystem.vcxproj|solutionrelative:GuestMember.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7000669E-C4AD-43E8-9417-15C61FEEC129}|A8_LibaryManagementSystem.vcxproj|C:\\Users\\abnormal\\source\\repos\\A7_LibrarySystem\\A8_LibaryManagementSystem\\StudentMember.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7000669E-C4AD-43E8-9417-15C61FEEC129}|A8_LibaryManagementSystem.vcxproj|solutionrelative:StudentMember.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7000669E-C4AD-43E8-9417-15C61FEEC129}|A8_LibaryManagementSystem.vcxproj|C:\\Users\\abnormal\\source\\repos\\A7_LibrarySystem\\A8_LibaryManagementSystem\\Magazine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7000669E-C4AD-43E8-9417-15C61FEEC129}|A8_LibaryManagementSystem.vcxproj|solutionrelative:Magazine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7000669E-C4AD-43E8-9417-15C61FEEC129}|A8_LibaryManagementSystem.vcxproj|C:\\Users\\abnormal\\source\\repos\\A7_LibrarySystem\\A8_LibaryManagementSystem\\LibraryManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7000669E-C4AD-43E8-9417-15C61FEEC129}|A8_LibaryManagementSystem.vcxproj|solutionrelative:LibraryManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7000669E-C4AD-43E8-9417-15C61FEEC129}|A8_LibaryManagementSystem.vcxproj|C:\\Users\\abnormal\\source\\repos\\A7_LibrarySystem\\A8_LibaryManagementSystem\\Book.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7000669E-C4AD-43E8-9417-15C61FEEC129}|A8_LibaryManagementSystem.vcxproj|solutionrelative:Book.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7000669E-C4AD-43E8-9417-15C61FEEC129}|A8_LibaryManagementSystem.vcxproj|C:\\Users\\abnormal\\source\\repos\\A7_LibrarySystem\\A8_LibaryManagementSystem\\StudentMember.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7000669E-C4AD-43E8-9417-15C61FEEC129}|A8_LibaryManagementSystem.vcxproj|solutionrelative:StudentMember.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7000669E-C4AD-43E8-9417-15C61FEEC129}|A8_LibaryManagementSystem.vcxproj|C:\\Users\\abnormal\\source\\repos\\A7_LibrarySystem\\A8_LibaryManagementSystem\\Magazine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7000669E-C4AD-43E8-9417-15C61FEEC129}|A8_LibaryManagementSystem.vcxproj|solutionrelative:Magazine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7000669E-C4AD-43E8-9417-15C61FEEC129}|A8_LibaryManagementSystem.vcxproj|C:\\Users\\abnormal\\source\\repos\\A7_LibrarySystem\\A8_LibaryManagementSystem\\LibraryManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7000669E-C4AD-43E8-9417-15C61FEEC129}|A8_LibaryManagementSystem.vcxproj|solutionrelative:LibraryManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7000669E-C4AD-43E8-9417-15C61FEEC129}|A8_LibaryManagementSystem.vcxproj|C:\\Users\\abnormal\\source\\repos\\A7_LibrarySystem\\A8_LibaryManagementSystem\\LibraryItem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7000669E-C4AD-43E8-9417-15C61FEEC129}|A8_LibaryManagementSystem.vcxproj|solutionrelative:LibraryItem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentMember.h",
+              "DocumentMoniker": "C:\\Users\\abnormal\\source\\repos\\A7_LibrarySystem\\A8_LibaryManagementSystem\\StudentMember.h",
+              "RelativeDocumentMoniker": "StudentMember.h",
+              "ToolTip": "C:\\Users\\abnormal\\source\\repos\\A7_LibrarySystem\\A8_LibaryManagementSystem\\StudentMember.h",
+              "RelativeToolTip": "StudentMember.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-11T18:19:12.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GuestMember.h",
+              "DocumentMoniker": "C:\\Users\\abnormal\\source\\repos\\A7_LibrarySystem\\A8_LibaryManagementSystem\\GuestMember.h",
+              "RelativeDocumentMoniker": "GuestMember.h",
+              "ToolTip": "C:\\Users\\abnormal\\source\\repos\\A7_LibrarySystem\\A8_LibaryManagementSystem\\GuestMember.h",
+              "RelativeToolTip": "GuestMember.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-11T18:18:14.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LibraryManager.cpp",
+              "DocumentMoniker": "C:\\Users\\abnormal\\source\\repos\\A7_LibrarySystem\\A8_LibaryManagementSystem\\LibraryManager.cpp",
+              "RelativeDocumentMoniker": "LibraryManager.cpp",
+              "ToolTip": "C:\\Users\\abnormal\\source\\repos\\A7_LibrarySystem\\A8_LibaryManagementSystem\\LibraryManager.cpp",
+              "RelativeToolTip": "LibraryManager.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-11T17:31:46.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LibraryManager.h",
+              "DocumentMoniker": "C:\\Users\\abnormal\\source\\repos\\A7_LibrarySystem\\A8_LibaryManagementSystem\\LibraryManager.h",
+              "RelativeDocumentMoniker": "LibraryManager.h",
+              "ToolTip": "C:\\Users\\abnormal\\source\\repos\\A7_LibrarySystem\\A8_LibaryManagementSystem\\LibraryManager.h",
+              "RelativeToolTip": "LibraryManager.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-11T17:30:35.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GuestMember.cpp",
+              "DocumentMoniker": "C:\\Users\\abnormal\\source\\repos\\A7_LibrarySystem\\A8_LibaryManagementSystem\\GuestMember.cpp",
+              "RelativeDocumentMoniker": "GuestMember.cpp",
+              "ToolTip": "C:\\Users\\abnormal\\source\\repos\\A7_LibrarySystem\\A8_LibaryManagementSystem\\GuestMember.cpp",
+              "RelativeToolTip": "GuestMember.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-11T17:13:29.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentMember.cpp",
+              "DocumentMoniker": "C:\\Users\\abnormal\\source\\repos\\A7_LibrarySystem\\A8_LibaryManagementSystem\\StudentMember.cpp",
+              "RelativeDocumentMoniker": "StudentMember.cpp",
+              "ToolTip": "C:\\Users\\abnormal\\source\\repos\\A7_LibrarySystem\\A8_LibaryManagementSystem\\StudentMember.cpp",
+              "RelativeToolTip": "StudentMember.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-11T17:13:21.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FacultyMember.cpp",
+              "DocumentMoniker": "C:\\Users\\abnormal\\source\\repos\\A7_LibrarySystem\\A8_LibaryManagementSystem\\FacultyMember.cpp",
+              "RelativeDocumentMoniker": "FacultyMember.cpp",
+              "ToolTip": "C:\\Users\\abnormal\\source\\repos\\A7_LibrarySystem\\A8_LibaryManagementSystem\\FacultyMember.cpp",
+              "RelativeToolTip": "FacultyMember.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-11T17:10:04.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LibraryItem.h",
+              "DocumentMoniker": "C:\\Users\\abnormal\\source\\repos\\A7_LibrarySystem\\A8_LibaryManagementSystem\\LibraryItem.h",
+              "RelativeDocumentMoniker": "LibraryItem.h",
+              "ToolTip": "C:\\Users\\abnormal\\source\\repos\\A7_LibrarySystem\\A8_LibaryManagementSystem\\LibraryItem.h",
+              "RelativeToolTip": "LibraryItem.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-11T17:07:15.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FacultyMember.h",
+              "DocumentMoniker": "C:\\Users\\abnormal\\source\\repos\\A7_LibrarySystem\\A8_LibaryManagementSystem\\FacultyMember.h",
+              "RelativeDocumentMoniker": "FacultyMember.h",
+              "ToolTip": "C:\\Users\\abnormal\\source\\repos\\A7_LibrarySystem\\A8_LibaryManagementSystem\\FacultyMember.h",
+              "RelativeToolTip": "FacultyMember.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-11T16:41:06.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Member.cpp",
+              "DocumentMoniker": "C:\\Users\\abnormal\\source\\repos\\A7_LibrarySystem\\A8_LibaryManagementSystem\\Member.cpp",
+              "RelativeDocumentMoniker": "Member.cpp",
+              "ToolTip": "C:\\Users\\abnormal\\source\\repos\\A7_LibrarySystem\\A8_LibaryManagementSystem\\Member.cpp",
+              "RelativeToolTip": "Member.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-11T16:40:39.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Member.h",
+              "DocumentMoniker": "C:\\Users\\abnormal\\source\\repos\\A7_LibrarySystem\\A8_LibaryManagementSystem\\Member.h",
+              "RelativeDocumentMoniker": "Member.h",
+              "ToolTip": "C:\\Users\\abnormal\\source\\repos\\A7_LibrarySystem\\A8_LibaryManagementSystem\\Member.h",
+              "RelativeToolTip": "Member.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-11T16:40:20.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMember.h",
+              "DocumentMoniker": "C:\\Users\\abnormal\\source\\repos\\A7_LibrarySystem\\A8_LibaryManagementSystem\\IMember.h",
+              "RelativeDocumentMoniker": "IMember.h",
+              "ToolTip": "C:\\Users\\abnormal\\source\\repos\\A7_LibrarySystem\\A8_LibaryManagementSystem\\IMember.h",
+              "RelativeToolTip": "IMember.h",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-11T16:40:00.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Magazine.cpp",
+              "DocumentMoniker": "C:\\Users\\abnormal\\source\\repos\\A7_LibrarySystem\\A8_LibaryManagementSystem\\Magazine.cpp",
+              "RelativeDocumentMoniker": "Magazine.cpp",
+              "ToolTip": "C:\\Users\\abnormal\\source\\repos\\A7_LibrarySystem\\A8_LibaryManagementSystem\\Magazine.cpp",
+              "RelativeToolTip": "Magazine.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-11T16:39:14.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Magazine.h",
+              "DocumentMoniker": "C:\\Users\\abnormal\\source\\repos\\A7_LibrarySystem\\A8_LibaryManagementSystem\\Magazine.h",
+              "RelativeDocumentMoniker": "Magazine.h",
+              "ToolTip": "C:\\Users\\abnormal\\source\\repos\\A7_LibrarySystem\\A8_LibaryManagementSystem\\Magazine.h",
+              "RelativeToolTip": "Magazine.h",
+              "ViewState": "AgIAAAEAAAAAAAAAAAD4vwwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-11T16:38:51.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Book.cpp",
+              "DocumentMoniker": "C:\\Users\\abnormal\\source\\repos\\A7_LibrarySystem\\A8_LibaryManagementSystem\\Book.cpp",
+              "RelativeDocumentMoniker": "Book.cpp",
+              "ToolTip": "C:\\Users\\abnormal\\source\\repos\\A7_LibrarySystem\\A8_LibaryManagementSystem\\Book.cpp",
+              "RelativeToolTip": "Book.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-11T16:37:54.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\abnormal\\source\\repos\\A7_LibrarySystem\\A8_LibaryManagementSystem\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\abnormal\\source\\repos\\A7_LibrarySystem\\A8_LibaryManagementSystem\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAB0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-11T16:20:27.063Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

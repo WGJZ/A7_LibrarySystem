@@ -1,0 +1,13 @@
+﻿  Book.cpp
+  FacultyMember.cpp
+  GuestMember.cpp
+  LibraryManager.cpp
+  Magazine.cpp
+  Magazine.h
+  main.cpp
+  LibraryItem.cpp
+  Member.cpp
+  StudentMember.cpp
+  Generating Code...
+A8_Libar.7000669e\x64\Debug\Magazine.obj : warning LNK4042: object specified more than once; extras ignored
+  A8_LibaryManagementSystem.vcxproj -> C:\Users\abnormal\source\repos\A8_LibaryManagementSystem\x64\Debug\A8_LibaryManagementSystem.exe
